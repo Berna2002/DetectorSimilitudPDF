@@ -1,0 +1,11 @@
+pdf1_path,pdf2_path,similitud,etiqueta
+pdfs\test\a_1.pdf,pdfs\test\b_1.pdf,0.2490711642667126,0
+pdfs\test\a_10.pdf,pdfs\test\b_10.pdf,0.47409009405049735,0
+pdfs\test\a_2.pdf,pdfs\test\b_2.pdf,0.5801861385528818,0
+pdfs\test\a_3.pdf,pdfs\test\b_3.pdf,0.5413555477772238,0
+pdfs\test\a_4.pdf,pdfs\test\b_4.pdf,0.3011120462113089,0
+pdfs\test\a_5.pdf,pdfs\test\b_5.pdf,1.0,1
+pdfs\test\a_6.pdf,pdfs\test\b_6.pdf,0.29079488560213185,0
+pdfs\test\a_7.pdf,pdfs\test\b_7.pdf,1.0,1
+pdfs\test\a_8.pdf,pdfs\test\b_8.pdf,0.3906054397918175,0
+pdfs\test\a_9.pdf,pdfs\test\b_9.pdf,0.42822373045329326,0
